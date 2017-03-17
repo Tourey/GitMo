@@ -1,4 +1,0 @@
-Name, Rank, Serial#
-Joe Wilks, Corporal, A789354
-Sam Sosa, Lieutenant, B981281
-Harry Weeks, Sargeant, G783456
